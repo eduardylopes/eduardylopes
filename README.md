@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardy.</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate full stack developer from Brasil</h3>
 
 - 🔭 I’m currently working on [rentx](https://github.com/eduardylopes/rentx)
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **eduardylopes@gmail.com**
 
