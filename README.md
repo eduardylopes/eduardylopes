@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Brasil</h3>
 
 - 🔭 I’m currently working on [rentx](https://github.com/eduardylopes/rentx)
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **eduardylopes@gmail.com**
 
