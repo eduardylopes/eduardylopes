@@ -5,7 +5,7 @@
 
 Hi, I'm Eduardy.
 
-I’m currently working as **Fullstack Developer**. Started programming with Javascript in 2019 when I decided to change my career from electrician to programmer, since then I've been trying to evolve every day.
+I’m currently working as **Fullstack Developer**. Started programming with Javascript in 2019 when I decided to change my career from electrical technician to software developer, since then I've been trying to evolve every day.
 
 #### My Skill Set
 
