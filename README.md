@@ -29,7 +29,7 @@ I’m currently working as **Fullstack Developer**. Started programming with Jav
 #### Backend
 
 <div align="center">  
-<a href="https://golang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/golang-original-wordmark.svg" alt="Golang" height="50" /></a>
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
