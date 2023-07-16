@@ -59,7 +59,7 @@ I’m currently working as **Fullstack Developer**. Started programming with Jav
 <br/> 
 
 <div>
-<a href="https://www.codewars.com/users/eduardylopes" target="_blank" align="center">
+<a href="https://www.codewars.com/users/eduardylopes" target="_blank" align="center" width="100%">
 <img src="https://www.codewars.com/users/eduardylopes/badges/small" align="center" />
 </a>
 </div>
