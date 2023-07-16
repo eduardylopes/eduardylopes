@@ -43,6 +43,7 @@ I’m currently working as **Fullstack Developer**. Started programming with Jav
 <img src="https://komarev.com/ghpvc/?username=eduardylopes&&style=flat-square" align="center" />
 </div>
 
+
 <div align="center">
-<img src="https://www.codewars.com/users/eduardylopes/badges/large" align="center" />
+<img src="https://www.codewars.com/users/eduardylopes/badges/small" align="center" />
 </div>
