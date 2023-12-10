@@ -9,30 +9,36 @@
 
 ## 🌀 A little more about me:
 
-```typescript
-class Eduardy extends Human {
-  name: string;
-  nationality: string;
-  
-  constructor() {
-    super();
-    this.name = "Eduardy Lopes";
-    this.nationality = "Brazilian";
-  }
-  
-  languages: Array<string> = [
-    "Portuguese",
-    "English",
-  ];
-  
-  technologies: {
-    JavaScript:     ["React.js", "Next.js", "Nest.js", "Adonis.js"];
-    GoLang:         ["GinGonic", "Gorm"];
-    APIs:           ["REST", "SOAP", "GraphQL"];
-    Events:         ["RabbitMQ", "Kafka", "Redis"];
-    Design:         ["ChakraUI", "Bootstrap", "AntDesign", "Material-UI"];
-    CloudComputing: ["Serverless", "AWS", "Docker", "Kubernetes"];
-  };
+```go
+type Developer struct {
+    Name        string
+    Nationality string
+    Languages   []string
+    Technologies struct {
+        JavaScript     []string
+        GoLang         []string
+        APIs           []string
+        Events         []string
+        Design         []string
+        DevOps []string
+    }
+}
+
+func NewDeveloper() *Developer {
+    dev := &Developer{
+        Name:        "Eduardy Lopes",
+        Nationality: "Brazilian",
+        Languages:   []string{"Portuguese", "English"},
+    }
+
+    d.Technologies.GoLang = []string{"Fiber", "GinGonic", "Gorm", "gRPC"}
+    d.Technologies.JavaScript = []string{"React.js", "Next.js", "Nest.js", "Adonis.js"}
+    d.Technologies.APIs = []string{"REST", "SOAP", "GraphQL", "gRPC"}
+    d.Technologies.Events = []string{"RabbitMQ", "Redis"}
+    d.Technologies.Design = []string{"ChakraUI", "RadixUI", "AntDesign", "Material-UI", "Bootstrap"}
+    d.Technologies.DevOps = []string{"AWS", "GCP", "Docker", "Kubernetes", "Grafana"}
+
+    return dev
 }
 ```
 
