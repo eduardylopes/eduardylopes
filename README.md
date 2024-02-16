@@ -4,7 +4,7 @@
 [![Mail Me!](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardylopes@gmail.com)](mailto:eduardylopes@gmail.com)
 [![Codewars!](https://img.shields.io/badge/-Codewars-b1361E?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/eduardylopes)](https://www.codewars.com/users/eduardylopes)
 
-### Full Stack Developer @ Osten Moove
+### Full Stack Developer
 
 
 ## 🌀 A little more about me:
